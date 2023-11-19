@@ -13,5 +13,5 @@ Project Goals
     i. event suggestions possible
     ii. prompt enginnering?
     iii. Hey im an ai party aissitant. You can ask me about commons that 
-
+7 dfkjad
     
